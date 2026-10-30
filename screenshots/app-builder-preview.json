@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Órbita",
+      "hasCanvas": false,
+      "bodyTextLen": 235,
+      "bodyTextHash": "d4727467e1a4fb7132f97c7ded80c678d1e09a3038f4b4ed2e35c62fa80ab3ab",
+      "bodyTextPrefix": "Órbita — explorador del sistema solar Cargando el sistema solar ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Órbita",
+      "hasCanvas": false,
+      "bodyTextLen": 154,
+      "bodyTextHash": "2d57a41715633a34002b1573535e77bc333d380e29ab3fd97b5a6238f3dd2375",
+      "bodyTextPrefix": "Órbita — explorador del sistema solar Cargando el sistema solar ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
